@@ -82,7 +82,7 @@ def txt_decode(txt_content):
 
 
 # 从urls.txt中读取所有直播源合集URL
-with open("./urls.txt", "r", encoding="utf-8") as file:
+with open("./code/urls.txt", "r", encoding="utf-8") as file:
     lines = file.readlines()
     for line in lines:
         data = line.split(",")
@@ -108,7 +108,7 @@ for target in targets:
         ipv6.extend(ipv6_datas)
 
 # 输出可用ipv4节目到文件
-with open("./ipv4.txt", "w", encoding="utf-8") as file:
+with open("./code/ipv4.txt", "w", encoding="utf-8") as file:
     for data in ipv4:
         # data[0]是频道名称 data[1]是链接
         file.write(data["name"] + "," + data["url"] + "\n")
@@ -124,7 +124,7 @@ normal_ipv4 = []
 normal_ipv6 = []
 programs = []
 # 输出可用央视频道+地方频道到文件
-with open("./program.txt", "w", encoding="utf-8") as file:
+with open("./code/program.txt", "w", encoding="utf-8") as file:
     for program in file.readlines():
         programs.append(program.strip())
 
@@ -144,7 +144,7 @@ for program in programs:
                 "url": data["url"]
             })
 
-with open("./ipv4normal.txt", "w", encoding="utf-8") as file:
+with open("./code/ipv4normal.txt", "w", encoding="utf-8") as file:
     for data in normal_ipv4:
         file.write(data["name"] + "," + data["url"] + "\n")
 
