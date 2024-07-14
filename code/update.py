@@ -124,7 +124,7 @@ normal_ipv4 = []
 normal_ipv6 = []
 programs = []
 # 输出可用央视频道+地方频道到文件
-with open("./code/program.txt", "w", encoding="utf-8") as file:
+with open("./code/program.txt", "r", encoding="utf-8") as file:
     for program in file.readlines():
         programs.append(program.strip())
 
