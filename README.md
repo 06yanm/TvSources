@@ -1,6 +1,8 @@
 # 项目简介
 
-项目地址：http://
+项目地址：[https://github.com/06yanm/TvSources](https://github.com/06yanm/TvSources)
+
+项目中的采集代码位于master分支下的code文件夹
 
 本项目是一个从网络上多个存储直播源地址的网站获取直播源，之后进行二次核验（验证源是否可用）的项目。
 
@@ -9,15 +11,15 @@
 ipv4源（第一个源只有央视频道和地方频道）：
 
 ```
-http://06yanm.github.io/xxx/codeshare/liveTV/code/ipv4normal.txt
-http://06yanm.github.io/xxx/codeshare/liveTV/code/ipv4.txt
+http://06yanm.github.io/TvSources/code/ipv4normal.txt
+http://06yanm.github.io/TvSourcescode/ipv4.txt
 ```
 
 ipv6源（第一个源只有央视频道和地方频道）：
 
 ```
-http://06yanm.github.io/xxx/codeshare/liveTV/code/ipv6normal.txt
-http://06yanm.github.io/xxx/codeshare/liveTV/code/ipv6.txt
+http://06yanm.github.io/TvSources/code/ipv6normal.txt
+http://06yanm.github.io/TvSources/code/ipv6.txt
 ```
 
 # 项目文件介绍
