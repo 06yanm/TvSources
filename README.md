@@ -1,3 +1,7 @@
+### 项目说明
+
+本项目采集后的直播源是txt形式的，可以用于DIYP直播这个软件的直播源。
+
 ### 项目简介
 
 项目地址：[https://github.com/06yanm/TvSources](https://github.com/06yanm/TvSources)
