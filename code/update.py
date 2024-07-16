@@ -75,7 +75,7 @@ def txt_decode(txt_content):
                         "name": txt_line_data[0],
                         "url": txt_line_data[1]
                     })
-                 '''                   
+                '''                   
                 else:
                     result_ipv4.append({
                         "name": txt_line_data[0],
