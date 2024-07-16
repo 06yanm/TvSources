@@ -19,7 +19,7 @@ http://06yanm.github.io/TvSources/code/ipv4normal.txt
 http://06yanm.github.io/TvSourcescode/ipv4.txt
 ```
 
-ipv6源（第一个源只有央视频道和地方频道）：
+ipv6源（由于githubAction不能访问ipv6，暂停提供）（第一个源只有央视频道和地方频道）：
 
 ```
 http://06yanm.github.io/TvSources/code/ipv6normal.txt
