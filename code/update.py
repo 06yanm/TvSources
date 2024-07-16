@@ -114,7 +114,7 @@ with open("./code/ipv4.txt", "w", encoding="utf-8") as file:
         file.write(data["name"] + "," + data["url"] + "\n")
 
 # 输出可用ipv6节目到文件
-with open("./ipv6.txt", "w", encoding="utf-8") as file:
+with open("./code/ipv6.txt", "w", encoding="utf-8") as file:
     for data in ipv6:
         # data[0]是频道名称 data[1]是链接
         file.write(data["name"] + "," + data["url"] + "\n")
@@ -148,6 +148,6 @@ with open("./code/ipv4normal.txt", "w", encoding="utf-8") as file:
     for data in normal_ipv4:
         file.write(data["name"] + "," + data["url"] + "\n")
 
-with open("./ipv6normal.txt", "w", encoding="utf-8") as file:
+with open("./code/ipv6normal.txt", "w", encoding="utf-8") as file:
     for data in normal_ipv6:
         file.write(data["name"] + "," + data["url"] + "\n")
