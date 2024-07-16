@@ -18,16 +18,18 @@ def m3u8_decode(file_content):
             tv_name = file_line.split(",")[-1]
         elif file_line and not file_line.startswith("#"):
             if test_url(file_line):
-                if is_valid_ipv6(file_line):
-                    result_ipv6.append({
-                        "name": tv_name,
-                        "url": file_line
-                    })
-                else:
+                if not is_valid_ipv6(file_line):
                     result_ipv4.append({
                         "name": tv_name,
                         "url": file_line
                     })
+                '''
+                else:
+                    result_ipv6.append({
+                        "name": tv_name,
+                        "url": file_line
+                    })
+                '''
             tv_name = ""
     return result_ipv4.copy(), result_ipv6.copy()
 
@@ -68,16 +70,18 @@ def txt_decode(txt_content):
         elif "http" in txt_line and "," in txt_line:
             txt_line_data = txt_line.split(",")
             if test_url(txt_line_data[1]):
-                if is_valid_ipv6(txt_line_data[1]):
-                    result_ipv6.append({
+                if not is_valid_ipv6(txt_line_data[1]):                    
+                    result_ipv4.append({
                         "name": txt_line_data[0],
                         "url": txt_line_data[1]
                     })
+                 '''                   
                 else:
                     result_ipv4.append({
                         "name": txt_line_data[0],
                         "url": txt_line_data[1]
                     })
+                '''
     return result_ipv4.copy(), result_ipv6.copy()
 
 
@@ -101,11 +105,11 @@ for target in targets:
     if target["type"] == 0:
         ipv4_datas, ipv6_datas = m3u8_decode(content)
         ipv4.extend(ipv4_datas)
-        ipv6.extend(ipv6_datas)
+        # ipv6.extend(ipv6_datas)
     else:
         ipv4_datas, ipv6_datas = txt_decode(content)
         ipv4.extend(ipv4_datas)
-        ipv6.extend(ipv6_datas)
+        # ipv6.extend(ipv6_datas)
 
 # 输出可用ipv4节目到文件
 with open("./code/ipv4.txt", "w", encoding="utf-8") as file:
@@ -114,11 +118,12 @@ with open("./code/ipv4.txt", "w", encoding="utf-8") as file:
         file.write(data["name"] + "," + data["url"] + "\n")
 
 # 输出可用ipv6节目到文件
+'''
 with open("./code/ipv6.txt", "w", encoding="utf-8") as file:
     for data in ipv6:
         # data[0]是频道名称 data[1]是链接
         file.write(data["name"] + "," + data["url"] + "\n")
-
+'''
 
 normal_ipv4 = []
 normal_ipv6 = []
@@ -137,17 +142,21 @@ for program in programs:
                 "url": data["url"]
             })
     # ipv6节目
+    '''
     for data in ipv6:
         if program in data["name"]:
             normal_ipv6.append({
                 "name": program,
                 "url": data["url"]
             })
+    '''
 
 with open("./code/ipv4normal.txt", "w", encoding="utf-8") as file:
     for data in normal_ipv4:
         file.write(data["name"] + "," + data["url"] + "\n")
 
+'''
 with open("./code/ipv6normal.txt", "w", encoding="utf-8") as file:
     for data in normal_ipv6:
         file.write(data["name"] + "," + data["url"] + "\n")
+'''
