@@ -138,7 +138,7 @@ for program in programs:
     for data in ipv4:
         if program in data["name"]:
             normal_ipv4.append({
-                "name": program,
+                "name": data["name"],
                 "url": data["url"]
             })
     # ipv6节目
