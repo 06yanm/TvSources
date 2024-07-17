@@ -44,6 +44,10 @@ CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/play
 CETV1中国教育电视台一套,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
 CETV2中国教育电视台二套,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
+广州电视台综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=8554699d06aed3f21425480824c75408&txTime=19095f3cb9c
+广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=9195728ae1904a92bcaa6a229b9eb243&txTime=190965dd4f4
+广州电视台新闻频道,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=a4f3c929fc51bf19b59826b76abceba5&txTime=19095f884a5
+广州竞赛频道,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=278bbb74b913655465c0308bee86fa92&txTime=190965e0140
 广州电视台法治频道,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=6189761ecfc6aa97b97b48bc30ae0c50&txTime=1909629bd71
 广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=2c55fc6940d8fb876b26bce0c4d49163&txTime=19096360e7f
 梅州一套综合频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
@@ -138,9 +142,9 @@ CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 上海金山电视台,http://livejs1.newsjs.net/jspd/playlist.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 云南都市频道yntv2,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南娱乐频道yntv3,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 云南公共频道yntv6,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
 云南澜湄国际频道,http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8
-云南少儿频道yntv7,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 西双版纳一套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 西双版纳二套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 广安新闻综合频道,http://live1.gatv.com.cn:85/live/XWZH.m3u8
@@ -223,6 +227,7 @@ CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 开州综合频道,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 忠县综合频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 忠县文旅频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
+邯郸新闻综合频道,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸科教频道,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 广西国际频道,https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
