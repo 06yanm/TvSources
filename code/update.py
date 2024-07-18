@@ -65,7 +65,9 @@ def txt_decode(txt_content):
     result_ipv4 = []
     for txt_line in txt_content.split("\n"):
         txt_line = txt_line.strip()
-        if "#genre#" in txt_line:
+        if "更新" in txt_line:
+            break
+        elif "#genre#" in txt_line:
             continue
         elif "http" in txt_line and "," in txt_line:
             txt_line_data = txt_line.split(",")
