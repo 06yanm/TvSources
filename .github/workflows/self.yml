@@ -34,3 +34,13 @@ jobs:
     - name: Start update
       run: |
         python ./self.py
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name "06yanm"
+        git config --global user.email "2488971290@qq.com"
+        git add .
+        git commit -m "Update files from GitHub Actions"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        git push origin HEAD:$(git branch --show-current)
