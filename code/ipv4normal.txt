@@ -2,13 +2,12 @@ CCTV-1综合,http://123.189.36.39:9901/tsfile/live/1156_1.m3u8
 CCTV-2财经,http://123.189.36.39:9901/tsfile/live/1157_1.m3u8
 CCTV-3综艺,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8
 CCTV-4中文国际,http://123.189.36.4:9901/tsfile/live/1158_1.m3u8
-CCTV-5体育,http://36.249.151.138:9901/tsfile/live/0141_1.m3u8
 CCTV-5+体育赛事,http://123.189.36.39:9901/tsfile/live/1015_1.m3u8
 CCTV-6电影,http://171.118.222.151:9999/tsfile/live/0006_1.m3u8
 CCTV-7国防军事,http://171.118.222.151:9999/tsfile/live/0007_1.m3u8
 CCTV-8电视剧,http://171.118.222.151:9999/tsfile/live/0008_1.m3u8
-CCTV-9纪录,http://36.249.151.138:9901/tsfile/live/0011_1.m3u8
 CCTV-10科教,http://58.23.26.184:9901/tsfile/live/0012_1.m3u8
+CCTV-11戏曲,http://58.23.26.184:9901/tsfile/live/0013_1.m3u8
 CCTV-12社会与法,http://123.189.36.4:9901/tsfile/live/1162_1.m3u8
 CCTV-13新闻,http://123.189.36.4:9901/tsfile/live/1012_1.m3u8
 CCTV-14少儿,http://58.23.26.184:9901/tsfile/live/1000_1.m3u8
