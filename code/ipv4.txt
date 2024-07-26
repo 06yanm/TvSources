@@ -1,3 +1,4 @@
+CCTV4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
@@ -12,12 +13,11 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 CCTV-1综合,http://123.189.36.39:9901/tsfile/live/1156_1.m3u8
 CCTV-2财经,http://123.189.36.39:9901/tsfile/live/1157_1.m3u8
 CCTV-3综艺,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8
@@ -39,7 +39,6 @@ CCTV-164K,http://123.189.36.4:9901/tsfile/live/1027_1.m3u8
 东方卫视,http://58.23.26.184:9901/tsfile/live/0107_1.m3u8
 天津卫视,http://58.23.26.184:9901/tsfile/live/0135_1.m3u8
 重庆卫视,http://58.23.26.184:9901/tsfile/live/0142_1.m3u8
-黑龙江卫视,http://114.254.80.92:88/tsfile/live/0143_1.m3u8
 吉林卫视,http://58.23.26.184:9901/tsfile/live/1003_1.m3u8
 辽宁卫视,http://171.118.222.151:9999/tsfile/live/0121_1.m3u8
 内蒙古卫视,http://123.189.36.39:9901/tsfile/live/1058_1.m3u8
@@ -249,8 +248,8 @@ CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 万州科教频道,http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
 忠县综合频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 忠县文旅频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
-邯郸新闻综合频道,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸科教频道,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 广西国际频道,https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
 广西乐思购频道,https://mobilelive.gxtv.cn/live/nn_live1002/playlist.m3u8
 优购物电视购物,https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3
@@ -259,7 +258,6 @@ CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 运城三套科教频道,http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
 延安一套新闻综合频道,http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 延安二套公共频道,http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
-海口一套综合频道,http://183.255.46.4:16080/live/tv2501.m3u8
 平凉新闻综合频道,http://pili-live-hls.182.i2863.com/i2863-182/live_182_089153.m3u8
 平凉公共频道,http://pili-live-hls.182.i2863.com/i2863-182/live_182_203925.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=563fa1181721744621
