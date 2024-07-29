@@ -1,4 +1,3 @@
-CCTV4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-3综艺,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8
 CCTV-6电影,http://171.118.222.151:9999/tsfile/live/0006_1.m3u8
 CCTV-7国防军事,http://171.118.222.151:9999/tsfile/live/0007_1.m3u8
@@ -22,6 +21,7 @@ CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/play
 云南卫视,http://58.23.26.184:9901/tsfile/live/0119_1.m3u8
 广西卫视,http://58.23.26.184:9901/tsfile/live/0113_1.m3u8
 山西卫视,http://171.118.222.151:9999/tsfile/live/0118_1.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
