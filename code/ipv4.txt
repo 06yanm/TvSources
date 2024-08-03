@@ -108,6 +108,10 @@ CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+济宁新闻综合频道,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+济宁图文频道,http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8
+济宁公共频道,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+济宁教育频道,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 威海一套新闻综合频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 威海二套公共频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 威海三套海洋频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
