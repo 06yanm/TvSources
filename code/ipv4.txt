@@ -84,7 +84,6 @@ CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801
 武义新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 兰溪新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 龙游新闻综合频道,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-龙游生活娱乐频道,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 开化新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 开化国家公园频道,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 衢江新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
@@ -205,6 +204,7 @@ CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801
 万州科教频道,http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
 忠县综合频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 忠县文旅频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
+邯郸新闻综合频道,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 邯郸科教频道,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 广西国际频道,https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
