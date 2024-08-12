@@ -1,4 +1,3 @@
-CCTV4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-3综艺,http://171.117.43.18:9999/tsfile/live/0003_1.m3u8
 CCTV-4中文国际,http://171.117.43.18:9999/tsfile/live/0004_1.m3u8
 CCTV-5体育,http://171.117.43.18:9999/tsfile/live/0005_1.m3u8
