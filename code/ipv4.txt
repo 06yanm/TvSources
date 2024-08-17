@@ -128,8 +128,6 @@ CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 嵊泗新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-锦州一套新闻综合频道,http://stream.jzgbdst.cn/1/sd/live.m3u8
-锦州二套教育频道,http://stream.jzgbdst.cn/2/sd/live.m3u8
 潍坊二套经济生活频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
 潍坊三套公共频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
 潍坊四套科教频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv4.m3u8
