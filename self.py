@@ -97,8 +97,8 @@ for key,value in tvData.items():
     for name in value:
         haveOne = False
         for tv in allTvs:
-            if isSimilar(name,tv["name"]):
-                final.append(f"{tv['name']},{tv['url']}")
+            if isSimilar(name, tv["name"]):
+                final.append(f"{name},{tv['url']}")
                 haveOne = True
         if not haveOne:
             final.append(f"{name},none")
