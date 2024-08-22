@@ -1,10 +1,12 @@
 import requests
 import difflib
 
-url = "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8"
+urls = ["https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+        "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8"
+        ]
 
-r = requests.get(url)
-r.encoding = "utf-8"
+
+
 final = []
 
 
@@ -82,7 +84,14 @@ tvData = {
     ]
 }
 
-allTvs = m3u8_decode(r.text)
+allTvs = []
+
+for url in urls:
+    # global allTVs
+    r = requests.get(url)
+    r.encoding = "utf-8"
+    allTvs.extend(m3u8_decode(r.text))
+
 for key,value in tvData.items():
     final.append(f"{key},#genre#")
     for name in value:
@@ -93,6 +102,7 @@ for key,value in tvData.items():
                 haveOne = True
         if not haveOne:
             final.append(f"{name},none")
+
 with open("./self.txt","w",encoding="utf-8") as f:
     f.write("\n".join(final))
 
