@@ -9,7 +9,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-CHC动作电影,https://pi.0472.org/chc/dz.m3u8
+CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
 CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -30,6 +30,7 @@ CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 CCTV-1综合,http://121.18.43.254:10000/hls/1/index.m3u8
 CCTV-2财经,http://121.24.98.226:8090/hls/10/index.m3u8
 CCTV-3综艺,http://121.24.98.226:8090/hls/11/index.m3u8
@@ -41,9 +42,10 @@ CCTV-7国防军事,http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
 CCTV-8电视剧,http://121.24.98.226:8090/hls/16/index.m3u8
 CCTV-9纪录,http://121.18.43.254:10000/hls/9/index.m3u8
 CCTV-10科教,http://121.24.98.226:8090/hls/18/index.m3u8
+CCTV-11戏曲,http://121.24.98.226:8090/hls/19/index.m3u8
 CCTV-12社会与法,http://121.24.98.226:8090/hls/20/index.m3u8
 CCTV-13新闻,http://123.138.216.44:9902/tsfile/live/0013_1.m3u8
-CCTV-15音乐,http://101.229.227.246:7777/tsfile/live/0015_1.m3u8
+CCTV-14少儿,http://121.24.98.226:8090/hls/22/index.m3u8
 CCTV-16奥林匹克,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 CCTV-17农业农村,http://121.24.98.226:8090/hls/15/index.m3u8
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -77,10 +79,10 @@ CCTV-164K,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 云南卫视,http://58.23.27.171:9901/tsfile/live/0119_1.m3u8
 贵州卫视,http://121.18.43.254:10000/hls/39/index.m3u8
 四川卫视,http://121.24.98.226:8090/hls/58/index.m3u8
-新疆卫视,http://110.241.188.219:808/hls/43/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 海南卫视,http://123.189.36.7:9901/tsfile/live/1064_1.m3u8
-三沙卫视,http://101.229.227.246:7777/tsfile/live/1056_1.m3u8
+CCTV怀旧剧场频道,http://110.241.188.219:808/hls/56/index.m3u8
+CCTV风云剧场频道,http://110.241.188.219:808/hls/57/index.m3u8
 CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CETV1中国教育电视台一套,http://121.24.98.226:8090/hls/67/index.m3u8
@@ -173,10 +175,8 @@ CETV2中国教育电视台二套,http://111.225.112.74:808/tsfile/live/1037_1.m3
 威海三套海洋频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 枣庄公共频道,http://stream.zztvzd.com/3/sd/live.m3u8
 上海东方购物频道,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
-游戏风云,http://101.229.227.246:7777/tsfile/live/1050_1.m3u8
 上海金山电视台,http://livejs1.newsjs.net/jspd/playlist.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-西双版纳一套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 德阳公共频道,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 广安新闻综合频道,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
@@ -254,7 +254,6 @@ CETV2中国教育电视台二套,http://111.225.112.74:808/tsfile/live/1037_1.m3
 荆门教育频道,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 孝感公共频道,http://live.yingxi.tv/channel1/sd/live.m3u8
 漳州一套新闻综合频道,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-重庆新闻频道,https://sjlivecdn9.cbg.cn/202408241312/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆时尚购物频道,https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
 荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
 万州综合频道,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
