@@ -1,11 +1,9 @@
+CCTV4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-1综合,http://121.18.43.254:10000/hls/1/index.m3u8
 CCTV-2财经,http://121.24.98.226:8090/hls/10/index.m3u8
 CCTV-3综艺,http://121.24.98.226:8090/hls/11/index.m3u8
 CCTV-4中文国际,http://121.24.98.226:8090/hls/12/index.m3u8
-CCTV-5体育,http://110.241.188.219:808/hls/5/index.m3u8
 CCTV-5+体育赛事,http://121.18.43.254:10000/hls/17/index.m3u8
-CCTV-6电影,http://110.241.188.219:808/hls/6/index.m3u8
-CCTV-7国防军事,http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
 CCTV-8电视剧,http://121.24.98.226:8090/hls/16/index.m3u8
 CCTV-9纪录,http://121.18.43.254:10000/hls/9/index.m3u8
 CCTV-10科教,http://121.24.98.226:8090/hls/18/index.m3u8
@@ -18,8 +16,6 @@ CCTV-16奥林匹克,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 CCTV-17农业农村,http://121.24.98.226:8090/hls/15/index.m3u8
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-164K,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
-CCTV怀旧剧场频道,http://110.241.188.219:808/hls/56/index.m3u8
-CCTV风云剧场频道,http://110.241.188.219:808/hls/57/index.m3u8
 CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 北京卫视,http://121.24.98.226:8090/hls/32/index.m3u8
 河北卫视,http://121.24.98.226:8090/hls/25/index.m3u8
@@ -27,7 +23,6 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 江苏卫视,http://121.18.43.254:10000/hls/21/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 东方卫视,http://202.100.46.58:9901/tsfile/live/1018_1.m3u8
-湖南卫视,http://121.24.98.226:8090/hls/56/index.m3u8
 广东卫视,http://121.24.98.226:8090/hls/82/index.m3u8
 深圳卫视,http://121.24.98.226:8090/hls/84/index.m3u8
 安徽卫视,http://121.24.98.226:8090/hls/81/index.m3u8
@@ -40,14 +35,9 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 东南卫视,http://121.18.43.254:10000/hls/23/index.m3u8
 天津卫视,http://121.18.43.254:10000/hls/25/index.m3u8
 贵州卫视,http://121.18.43.254:10000/hls/39/index.m3u8
-云南卫视,http://58.23.27.171:9901/tsfile/live/0119_1.m3u8
 广西卫视,http://121.18.43.254:10000/hls/53/index.m3u8
-山西卫视,http://110.241.188.219:808/hls/38/index.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-内蒙古卫视,http://110.241.188.219:808/hls/39/index.m3u8
 甘肃卫视,http://222.134.245.16:9901/tsfile/live/0141_1.m3u8
 青海卫视,http://222.134.245.16:9901/tsfile/live/0140_1.m3u8
-新疆卫视,http://110.241.188.219:808/hls/43/index.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-金鹰卡通,http://110.241.188.219:808/hls/50/index.m3u8
