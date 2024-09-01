@@ -21,6 +21,7 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 东方卫视,http://202.100.46.58:9901/tsfile/live/1018_1.m3u8
 湖南卫视,http://121.24.98.226:8090/hls/56/index.m3u8
+广东卫视,http://121.24.98.226:8090/hls/82/index.m3u8
 安徽卫视,http://121.24.98.226:8090/hls/81/index.m3u8
 黑龙江卫视,http://121.24.98.226:8090/hls/42/index.m3u8
 辽宁卫视,http://121.24.98.226:8090/hls/59/index.m3u8
@@ -32,6 +33,7 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 天津卫视,http://121.18.43.254:10000/hls/25/index.m3u8
 贵州卫视,http://121.18.43.254:10000/hls/39/index.m3u8
 广西卫视,http://121.18.43.254:10000/hls/53/index.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 甘肃卫视,http://222.134.245.16:9901/tsfile/live/0141_1.m3u8
 青海卫视,http://222.134.245.16:9901/tsfile/live/0140_1.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
