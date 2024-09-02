@@ -15,13 +15,13 @@ CCTV-17农业农村,http://121.24.98.226:8090/hls/15/index.m3u8
 CCTV-164K,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 北京卫视,http://121.24.98.226:8090/hls/32/index.m3u8
-河北卫视,http://121.24.98.226:8090/hls/25/index.m3u8
 山东卫视,http://121.24.98.226:8090/hls/39/index.m3u8
 江苏卫视,http://121.18.43.254:10000/hls/21/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 东方卫视,http://202.100.46.58:9901/tsfile/live/1018_1.m3u8
 湖南卫视,http://121.24.98.226:8090/hls/56/index.m3u8
 广东卫视,http://121.24.98.226:8090/hls/82/index.m3u8
+深圳卫视,http://121.24.98.226:8090/hls/84/index.m3u8
 安徽卫视,http://121.24.98.226:8090/hls/81/index.m3u8
 黑龙江卫视,http://121.24.98.226:8090/hls/42/index.m3u8
 辽宁卫视,http://121.24.98.226:8090/hls/59/index.m3u8
