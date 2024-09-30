@@ -1,13 +1,23 @@
+
 import requests
 import difflib
 
-urls = ["https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-        "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8"
-        ]
-
-
+urls = ["https://m3u.ibert.me/txt/fmml_ipv6.txt"]
 
 final = []
+
+def txt_decode(file_content):
+    result = []
+    for line in file_content.split("\n"):
+        line = line.strip()
+        if "#genre#" not in line and line != "":
+            r = line.split(",")          
+            result.append({
+                "name": r[0],
+                "url": r[1]
+            })
+    return result
+        
 
 
 def m3u8_decode(file_content):
@@ -90,7 +100,7 @@ for url in urls:
     # global allTVs
     r = requests.get(url)
     r.encoding = "utf-8"
-    allTvs.extend(m3u8_decode(r.text))
+    allTvs.extend(txt_decode(r.text))
 
 for key,value in tvData.items():
     final.append(f"{key},#genre#")
@@ -105,5 +115,4 @@ for key,value in tvData.items():
 
 with open("./self.txt","w",encoding="utf-8") as f:
     f.write("\n".join(final))
-
 
