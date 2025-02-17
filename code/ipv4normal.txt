@@ -156,5 +156,4 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 金鹰卡通,http://60.12.183.46:9901/tsfile/live/0140_1.m3u8
 金鹰卡通,http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8
 金鹰卡通,http://120.192.226.35:8009/hls/67/index.m3u8
-金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
 金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8

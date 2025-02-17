@@ -183,9 +183,7 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 重庆卫视,http://183.11.239.36:808/hls/53/index.m3u8
 南方卫视,http://113.101.119.26:8090/hls/109/index.m3u8
 南方卫视,http://113.101.119.26:808/hls/109/index.m3u8
-南方卫视,http://113.86.205.59:8090/hls/109/index.m3u8
 南方卫视,http://113.101.119.62:8090/hls/109/index.m3u8
-南方卫视,http://113.15.184.97:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
@@ -224,9 +222,8 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&play
 黑莓电影,http://111.29.9.33:6610/000000001000/1000000004000019624/index.m3u8?channel-id=bestzb&Contentid=1000000004000019624&livemode=1&stbId=3
 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+星空卫视,http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影,http://go1.bkpcp.top/tl/null-11
 东森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
@@ -252,8 +249,6 @@ XilamTV,https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 变形金刚,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
 哆啦A梦大雄与天空的理想乡,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
 哆啦A梦大雄与天空的理想乡普通话,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
-哈利波特死神的圣物,https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8
-哈利波特火杯的考验,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哥斯拉大战金刚2帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
@@ -319,6 +314,7 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&play
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 优漫卡通,http://123.138.22.30:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
+卡酷少儿,http://60.29.124.66:6080/hls/58/index.m3u8
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8
 卡酷少儿,http://183.66.15.146:60901/tsfile/live/0126_2.m3u8
 嘉佳卡通,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8
@@ -330,7 +326,6 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&play
 金鹰卡通,http://60.12.183.46:9901/tsfile/live/0140_1.m3u8
 金鹰卡通,http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8
 金鹰卡通,http://120.192.226.35:8009/hls/67/index.m3u8
-金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
 金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 广东少儿,http://121.33.239.242:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -338,6 +333,7 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&play
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
 哈哈炫动,http://61.138.128.226:19901/tsfile/live/1016_1.m3u8
 哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 哈哈炫动,http://58.57.40.22:9901/tsfile/live/1061_1.m3u8
@@ -380,9 +376,11 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8
 山东教育,http://120.238.94.10:9901/tsfile/live/1062_1.m3u8
 山东教育,http://121.19.134.222:808/tsfile/live/1033_1.m3u8
+广东体育,http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
 广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://1b6467f415.iok.la:9931/tsfile/live/1078_1.m3u8
 金鹰纪实,http://183.11.239.36:808/hls/171/index.m3u8
 金鹰纪实,http://120.238.94.10:9901/tsfile/live/1059_1.m3u8
 金鹰纪实,http://58.57.40.22:9901/tsfile/live/1070_1.m3u8
@@ -523,8 +521,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 天津文艺,http://180.213.174.225:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 天津新闻,http://180.213.174.225:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 天津都市,http://180.213.174.225:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
-夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 姚江文化,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?
@@ -575,7 +571,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 平湖民生,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 平湖民生,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed?
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
-平远综合,http://1b6467f415.iok.la:9931/tsfile/live/1097_1.m3u8
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8
 广东新闻,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
@@ -587,7 +582,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广南电视台,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8?zyund
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
-广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
@@ -718,7 +712,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 浙江国际,https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
-浙江国际,https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -754,6 +747,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 湖北生活,http://220.249.114.102:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
+湖北经视,http://183.94.1.118:8801/tsfile/live/1017_1.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北综合,http://58.19.133.144:9901
@@ -853,7 +847,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 荥阳综合,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
 萧山新闻,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed?
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -929,7 +922,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
 闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
-阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
 陕西1套,http://112.46.85.60:8009/hls/18/index.m3u8
 陕西1套,http://123.138.22.30:9901/tsfile/live/1000_1.m3u8
@@ -969,7 +961,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
-黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
 黑龙江文体,http://112.101.78.50:9901/tsfile/live/1009_1.m3u8
 黑龙江新闻法治,http://112.101.78.50:9901/tsfile/live/1010_1.m3u8
@@ -1001,6 +992,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
@@ -1268,9 +1260,6 @@ CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
 旅游卫视,http://180.213.174.225:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://113.57.20.158:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙卫视,http://58.220.219.14:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-周星驰,http://zby.xjqxz.top/live12/live.m3u8
-李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
-成龙,http://zby.xjqxz.top/cldy/live.m3u8
 中国教育4,http://220.249.114.102:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 东森亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 ATVA1台,https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
@@ -2043,7 +2032,6 @@ ycccc满天星辰不及你,https://vd7.bdstatic.com/mda-pcea0pjybya97xsx/sc/cae_
 都江堰,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
 都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
 都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
 都江堰英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
 酒吧劲爆中文舞曲,https://vd4.bdstatic.com/mda-mm0b66vfp7wt1u2z/1080p/cae_h264/1638380807362057569/mda-mm0b66vfp7wt1u2z.mp4
