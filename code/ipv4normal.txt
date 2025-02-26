@@ -26,7 +26,6 @@ CCTV风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 CCTV风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
-CCTV电影轮播,http://zby.xjqxz.top/lljdy/live.m3u8
 CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://180.213.174.225:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://39.164.160.249:9901/tsfile/live/0122_1.m3u8
@@ -65,10 +64,12 @@ CCTV世界地理,http://180.213.174.225:9901/tsfile/live/1051_1.m3u8?key=txiptv&
 湖南卫视,http://175.31.21.146:4480/hls/36/index.m3u8
 广东卫视,http://39.164.160.249:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
+广东卫视,http://120.192.226.35:8009/hls/36/index.m3u8
 广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8
 广东卫视,http://60.223.224.176:8888/newlive/live/hls/20/live.m3u8
 深圳卫视,http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳卫视,http://120.192.226.35:8009/hls/37/index.m3u8
 安徽卫视,http://220.164.192.48:50085/tsfile/live/0126_1.m3u8
 安徽卫视,http://60.12.183.46:9901/tsfile/live/0130_2.m3u8
 安徽卫视,http://39.164.160.249:9901/tsfile/live/0130_1.m3u8
@@ -77,6 +78,7 @@ CCTV世界地理,http://180.213.174.225:9901/tsfile/live/1051_1.m3u8?key=txiptv&
 黑龙江卫视,http://120.192.226.35:8009/hls/38/index.m3u8
 黑龙江卫视,http://111.160.17.2:59901/tsfile/live/0001_36.m3u8
 辽宁卫视,http://39.164.160.249:9901/tsfile/live/0121_1.m3u8
+辽宁卫视,http://120.192.226.35:8009/hls/54/index.m3u8
 辽宁卫视,http://111.160.17.2:59901/tsfile/live/0001_41.m3u8
 重庆卫视,http://60.12.183.46:9901/tsfile/live/0122_1.m3u8
 重庆卫视,http://58.57.40.22:9901/tsfile/live/0142_1.m3u8
@@ -85,6 +87,7 @@ CCTV世界地理,http://180.213.174.225:9901/tsfile/live/1051_1.m3u8?key=txiptv&
 重庆卫视,http://111.160.17.2:59901/tsfile/live/0001_31.m3u8
 四川卫视,http://60.12.183.46:9901/tsfile/live/0128_1.m3u8
 四川卫视,http://58.57.40.22:9901/tsfile/live/1046_1.m3u8
+四川卫视,http://120.192.226.35:8009/hls/41/index.m3u8
 四川卫视,http://36.32.174.67:60080/newlive/live/hls/29/live.m3u8
 四川卫视,http://123.182.60.29:9002/hls/36/index.m3u8
 湖北卫视,http://60.12.183.46:9901/tsfile/live/0116_1.m3u8
@@ -99,6 +102,7 @@ CCTV世界地理,http://180.213.174.225:9901/tsfile/live/1051_1.m3u8?key=txiptv&
 东南卫视,http://110.53.52.63:8888/newlive/live/hls/47/live.m3u8
 东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
 天津卫视,http://60.12.183.46:9901/tsfile/live/0120_1.m3u8
+天津卫视,http://120.192.226.35:8009/hls/44/index.m3u8
 天津卫视,http://36.32.174.67:60080/newlive/live/hls/26/live.m3u8
 贵州卫视,http://220.164.192.48:50085/tsfile/live/0125_1.m3u8
 贵州卫视,http://39.164.160.249:9901/tsfile/live/0120_1.m3u8
@@ -153,8 +157,8 @@ CCTV世界地理,http://180.213.174.225:9901/tsfile/live/1051_1.m3u8?key=txiptv&
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
-兵团卫视,http://1b6467f415.iok.la:9931/tsfile/live/1092_1.m3u8
 兵团卫视,http://110.80.17.38:9901/tsfile/live/0015_1.m3u8
+金鹰卡通,http://120.192.226.35:8009/hls/67/index.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 金鹰卡通,http://220.170.241.204:9901/tsfile/live/1005_1.m3u8
 金鹰卡通,http://183.66.15.146:60901/tsfile/live/0117_2.m3u8
