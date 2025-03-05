@@ -1,18 +1,22 @@
 CCTV1,http://jf.jxx2023.work:40446/tsfile/live/0001_1.m3u8
 CCTV1,http://60.12.183.46:9901/tsfile/live/0001_1.m3u8
+CCTV2,http://jf.jxx2023.work:40446/tsfile/live/0002_1.m3u8
 CCTV2,http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://60.12.183.46:9901/tsfile/live/0003_1.m3u8
 CCTV4,http://60.12.183.46:9901/tsfile/live/0004_1.m3u8
 CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
 CCTV6,http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
+CCTV7,http://jf.jxx2023.work:40446/tsfile/live/0007_1.m3u8
 CCTV7,http://60.12.183.46:9901/tsfile/live/0007_1.m3u8
 CCTV9,http://39.164.160.249:9901/tsfile/live/0009_1.m3u8
 CCTV9,http://60.12.183.46:9901/tsfile/live/0009_1.m3u8
+CCTV10,http://39.164.160.249:9901/tsfile/live/0010_1.m3u8
 CCTV11,http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 CCTV12,http://39.164.160.249:9901/tsfile/live/0012_1.m3u8
 CCTV12,http://60.12.183.46:9901/tsfile/live/0012_1.m3u8
 CCTV13,http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
 CCTV13,http://60.12.183.46:9901/tsfile/live/0013_1.m3u8
+CCTV14,http://39.164.160.249:9901/tsfile/live/0014_1.m3u8
 CCTV14,http://60.12.183.46:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://39.164.160.249:9901/tsfile/live/0015_1.m3u8
 CCTV15,http://60.12.183.46:9901/tsfile/live/0015_1.m3u8
@@ -29,6 +33,7 @@ CCTV女性时尚,http://180.213.174.225:9901/tsfile/live/1054_1.m3u8?key=txiptv&
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV怀旧剧场,http://jf.jxx2023.work:40446/tsfile/live/1149_1.m3u8
 CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+CCTV怀旧剧场,http://180.213.174.225:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV第一剧场,http://jf.jxx2023.work:40446/tsfile/live/1049_1.m3u8
 CCTV第一剧场,http://180.213.174.225:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云剧场,http://jf.jxx2023.work:40446/tsfile/live/1150_1.m3u8
@@ -94,6 +99,7 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 云南卫视,http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
 云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
 云南卫视,http://120.238.94.10:9901/tsfile/live/1069_1.m3u8
+广西卫视,http://jf.jxx2023.work:40446/tsfile/live/0113_1.m3u8
 广西卫视,http://60.12.183.46:9901/tsfile/live/0112_1.m3u8
 广西卫视,http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
@@ -132,5 +138,6 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 兵团卫视,http://218.89.240.144:59901/tsfile/live/0115_1.m3u8
 金鹰卡通,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
 金鹰卡通,http://60.12.183.46:9901/tsfile/live/0140_1.m3u8
+金鹰卡通,http://120.192.226.35:8009/hls/67/index.m3u8
 金鹰卡通,http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
