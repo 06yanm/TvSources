@@ -78,7 +78,6 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 安徽卫视,http://ms.fxim.net:808/hls/18/index.m3u8
 安徽卫视,http://183.11.239.36:808/hls/40/index.m3u8
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
-黑龙江卫视,http://120.198.101.106:9901/tsfile/live/1075_1.m3u8
 黑龙江卫视,http://110.53.52.63:8888/newlive/live/hls/44/live.m3u8
 黑龙江卫视,http://183.131.246.250:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://113.140.12.230:8888/newlive/live/hls/42/live.m3u8
@@ -165,6 +164,7 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8
 西藏卫视,http://101.19.84.8:9901/tsfile/live/0111_1.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 兵团卫视,http://218.13.14.6:60050/tsfile/live/1053_1.m3u8
 兵团卫视,http://120.238.94.10:9901/tsfile/live/1080_1.m3u8
