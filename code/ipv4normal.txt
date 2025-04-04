@@ -79,6 +79,7 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 广东卫视,http://218.13.14.6:60050/tsfile/live/1017_1.m3u8
 深圳卫视,http://111.160.17.2:59901/tsfile/live/0001_49.m3u8
 深圳卫视,http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8
+深圳卫视,http://183.11.239.36:808/hls/45/index.m3u8
 安徽卫视,http://39.164.160.249:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
 安徽卫视,http://ms.fxim.net:808/hls/18/index.m3u8
@@ -125,7 +126,6 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 云南卫视,http://183.11.239.36:808/hls/52/index.m3u8
 广西卫视,http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
 广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,http://111.160.17.2:59901/tsfile/live/0001_44.m3u8
 广西卫视,http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8
 山西卫视,http://220.164.192.48:50085/tsfile/live/0117_1.m3u8
