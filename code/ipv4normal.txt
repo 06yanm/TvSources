@@ -4,6 +4,7 @@ CCTV5,http://220.164.192.48:50085/tsfile/live/0006_1.m3u8
 CCTV6,http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
 CCTV6,http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
 CCTV6,http://ms.fxim.net:808/hls/6/index.m3u8
+CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8
 CCTV10,http://39.164.160.249:9901/tsfile/live/0010_1.m3u8
 CCTV11,http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 CCTV12,http://39.164.160.249:9901/tsfile/live/0012_1.m3u8
@@ -40,7 +41,6 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 CCTV少儿,http://119.163.60.181:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://39.164.160.249:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://my.tmos.cn:15181/chs002.m3u8
 北京卫视,http://ms.fxim.net:808/hls/22/index.m3u8
 北京卫视,http://60.223.224.176:8888/newlive/live/hls/18/live.m3u8
 河北卫视,http://39.164.160.249:9901/tsfile/live/0117_1.m3u8
@@ -54,12 +54,10 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 山东卫视,http://183.11.239.36:808/hls/43/index.m3u8
 江苏卫视,http://39.164.160.249:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://58.57.40.22:9901/tsfile/live/1031_1.m3u8
-江苏卫视,http://my.tmos.cn:15181/chs003.m3u8
 江苏卫视,http://ms.fxim.net:808/hls/16/index.m3u8
 江苏卫视,http://60.223.224.176:8888/newlive/live/hls/21/live.m3u8
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://my.tmos.cn:15181/chs004.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
 东方卫视,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
@@ -76,7 +74,6 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 湖南卫视,http://110.53.52.63:8888/newlive/live/hls/22/live.m3u8
 广东卫视,http://39.164.160.249:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
-广东卫视,http://my.tmos.cn:15181/chs006.m3u8
 深圳卫视,http://111.160.17.2:59901/tsfile/live/0001_49.m3u8
 深圳卫视,http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8
 深圳卫视,http://183.11.239.36:808/hls/45/index.m3u8
@@ -87,7 +84,6 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 安徽卫视,http://183.11.239.36:808/hls/40/index.m3u8
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
 黑龙江卫视,http://111.160.17.2:59901/tsfile/live/0001_36.m3u8
 黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
 黑龙江卫视,http://223.241.247.214:9901/tsfile/live/0143_1.m3u8
@@ -129,11 +125,12 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 云南卫视,http://110.53.52.63:8888/newlive/live/hls/26/live.m3u8
 云南卫视,http://183.11.239.36:808/hls/52/index.m3u8
 广西卫视,http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
-广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,http://111.160.17.2:59901/tsfile/live/0001_44.m3u8
 广西卫视,http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8
 山西卫视,http://110.53.52.63:8888/newlive/live/hls/43/live.m3u8
 山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
+山西卫视,http://58.210.168.86:10800/newlive/live/hls/38/live.m3u8
 山西卫视,http://183.11.239.36:808/hls/59/index.m3u8
 内蒙古卫视,http://110.53.52.63:8888/newlive/live/hls/45/live.m3u8
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
@@ -165,7 +162,6 @@ CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 西藏卫视,http://101.19.84.8:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://61.138.128.226:19901/tsfile/live/0111_1.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 兵团卫视,http://218.13.14.6:60050/tsfile/live/1053_1.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
